@@ -1,0 +1,95 @@
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\bin\Debug\TAFitri2016.exe.config
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\bin\Debug\TAFitri2016.exe
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\bin\Debug\TAFitri2016.pdb
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\bin\Debug\TAFitri2016.xml
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_About.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_Dapartemen.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_Karyawan.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_loginUser.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_Penggajian.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_pGaji.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_User.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_Utama.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_Laporan.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.f_Slip.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.Resources.resources
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.vbproj.GenerateResource.Cache
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.exe
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.xml
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.pdb
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\TAFitri2016.vbprojResolveAssemblyReference.cache
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\RdlCompile.cache
+D:\Kuliah\MASTER PROJECT\TA_FITRI\TAFitri2016\obj\Debug\RdlCompile.compiled
+D:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.exe.config
+D:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.exe
+D:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.pdb
+D:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.xml
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_About.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Dapartemen.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Karyawan.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_loginUser.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Penggajian.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_pGaji.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_User.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Utama.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Laporan.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Slip.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.Resources.resources
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.vbproj.GenerateResource.Cache
+D:\PROGRAM\TAFitri2016\obj\Debug\RdlCompile.cache
+D:\PROGRAM\TAFitri2016\obj\Debug\RdlCompile.compiled
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.exe
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.xml
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.pdb
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.vbprojResolveAssemblyReference.cache
+D:\Kuliah\MI_TA2016\TAFitri2016\bin\Debug\TAFitri2016.exe.config
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.exe
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.xml
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.pdb
+D:\Kuliah\MI_TA2016\TAFitri2016\bin\Debug\TAFitri2016.exe
+D:\Kuliah\MI_TA2016\TAFitri2016\bin\Debug\TAFitri2016.pdb
+D:\Kuliah\MI_TA2016\TAFitri2016\bin\Debug\TAFitri2016.xml
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.vbprojResolveAssemblyReference.cache
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_About.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_Dapartemen.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_Karyawan.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_loginUser.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_Penggajian.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_pGaji.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_User.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_Utama.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_Laporan2.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_Laporan.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.f_Slip.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.Resources.resources
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\TAFitri2016.vbproj.GenerateResource.Cache
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\RdlCompile.cache
+D:\Kuliah\MI_TA2016\TAFitri2016\obj\Debug\RdlCompile.compiled
+D:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Laporan2.resources
+I:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.exe.config
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.exe
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.xml
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.pdb
+I:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.exe
+I:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.pdb
+I:\PROGRAM\TAFitri2016\bin\Debug\TAFitri2016.xml
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.vbprojResolveAssemblyReference.cache
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_About.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Dapartemen.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Karyawan.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_loginUser.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Penggajian.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_pGaji.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_User.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Utama.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Laporan2.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Laporan.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.f_Slip.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.Resources.resources
+I:\PROGRAM\TAFitri2016\obj\Debug\TAFitri2016.vbproj.GenerateResource.Cache
+I:\PROGRAM\TAFitri2016\obj\Debug\RdlCompile.cache
+I:\PROGRAM\TAFitri2016\obj\Debug\RdlCompile.compiled
+D:\Kuliah\MASTER PROJECT\TA FITRI NEW\TAFitri2016\bin\Debug\TAFitri2016.exe.config
+D:\Kuliah\MASTER PROJECT\TA FITRI NEW\TAFitri2016\obj\Debug\TAFitri2016.exe
+D:\Kuliah\MASTER PROJECT\TA FITRI NEW\TAFitri2016\obj\Debug\TAFitri2016.xml
+D:\Kuliah\MASTER PROJECT\TA FITRI NEW\TAFitri2016\obj\Debug\TAFitri2016.pdb
